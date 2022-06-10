@@ -2,7 +2,7 @@
 
 A Flutter QR code scanner project made using Flutter 3.0. Available for **Android** and **Web**.
 
-<img src="https://github.com/StevenChege/flutter_developer_portfolio/blob/master/assets/images/Screenshot1.png"> <!-- big image -->
+<img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots4.jpg"> <!-- big image -->
 
 <div align="center">
 
@@ -28,13 +28,13 @@ flutter run
 
 ## 🔗 Useful links
 
-🌐 Web App: https://stevenchege.github.io/flutter_qrcode_scanner
+🌐 Web App: coming soon ..
 
 📱 Android App: coming soon ..
 
 ## 👀 Looks
 
-<img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/master/assets/images/Screenshot1.png"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/master/assets/images/Screenshot2.png"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/master/assets/images/Screenshota.png"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/master/assets/images/Screenshotc.png"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/master/assets/images/Screenshotz.png"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/master/assets/images/Screenshotb.png">
+<img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots3.jpg"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots4.jpg"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots2.jpg"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots1.jpg">
 
 ## 🔑 License
 
