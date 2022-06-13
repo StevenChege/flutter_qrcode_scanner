@@ -42,5 +42,7 @@ void launchURL(String _url) async {
       ? await launchUrl(_uri, mode: LaunchMode.externalApplication)
       : throw Get.snackbar(_uri.toString(),
           '🤖 Could not launch $_url, enter a valid url format',
+      maxWidth: 400,
+      margin: EdgeInsets.only(top: kDefaultPadding),
           duration: kSnackBarDuration);
 }
