@@ -29,7 +29,7 @@ flutter run
 
 ## 🔗 Useful links
 
-🌐 Web App: coming soon ..
+🌐 Web App:  [qr_code_scanner_and_generator.codemagic.app](https://qr_code_scanner_and_generator.codemagic.app)
 
 📱 Android App: coming soon ..
 
