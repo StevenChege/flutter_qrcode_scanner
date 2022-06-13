@@ -31,7 +31,8 @@ flutter run
 
 🌐 Web App:  [qr_code_scanner_and_generator.codemagic.app](https://qr_code_scanner_and_generator.codemagic.app)
 
-📱 Android App: coming soon ..
+📱 Android App:  [get apk](https://drive.google.com/file/d/1K8bt5uPYRiNs2OO6PoNYnodgxqcSmzjN/view?usp=drivesdk)
+
 
 ## 👀 Looks
 
