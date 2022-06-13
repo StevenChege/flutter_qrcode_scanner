@@ -1,6 +1,6 @@
 <h1 align="start" style="font-size: 52px;" ><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> QR Code Scanner </h1>
 
-A Flutter QR code scanner project made using Flutter 3.0. Available for **Android** and **Web**.
+A Flutter QR code scanner project made using Flutter 3. Available for **Android** and **Web**.
 
 <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/qr%20code%20iPhone%20mockup.png"> 
 
