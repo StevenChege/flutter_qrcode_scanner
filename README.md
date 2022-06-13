@@ -2,7 +2,8 @@
 
 A Flutter QR code scanner project made using Flutter 3.0. Available for **Android** and **Web**.
 
-<img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots4.jpg"> <!-- big image -->
+<img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/qr%20code%20iPhone%20mockup.png"> 
+
 
 <div align="center">
 
@@ -34,7 +35,7 @@ flutter run
 
 ## 👀 Looks
 
-<img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots3.jpg"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots4.jpg"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots2.jpg"> <img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots1.jpg">
+<img src="https://github.com/StevenChege/flutter_qrcode_scanner/blob/main/screenshots.png">
 
 ## 🔑 License
 
